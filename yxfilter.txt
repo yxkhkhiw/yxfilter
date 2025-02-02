@@ -1,0 +1,12 @@
+! adservers
+||adsok.co^
+
+! css selector
+ggg
+
+! path
+||animegojo.com/banner
+||animeyuzu.com/up
+||clip2thai.com/wp-content/uploads
+||hentaithai.com/banner
+

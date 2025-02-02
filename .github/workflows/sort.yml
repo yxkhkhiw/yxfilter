@@ -1,0 +1,32 @@
+name: Auto Sort and Update yxfilter.txt
+
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    sort_and_commit:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+
+            - name: Run sort script
+              run: bash sort.sh
+
+            - name: Check for changes
+              run: |
+                  if git diff --quiet; then
+                    echo "No changes after sorting. Exiting."
+                    exit 0
+                  fi
+
+            - name: Commit and push if changed
+              run: |
+                  git config --global user.name "github-actions[bot]"
+                  git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                  git add adservers.txt css\ selector.txt path.txt yxfilter.txt
+                  git commit -m "Auto-sorted files and updated yxfilter.txt"
+                  git push
