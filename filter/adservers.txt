@@ -1,2 +1,2 @@
-||cdn.adsok.co^
-||image.cdend.com^
+||adsok.co^
+||cdend.com^
