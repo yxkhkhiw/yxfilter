@@ -1,8 +1,8 @@
 ! adservers
 ||adsok.co^
 
-! css selector
-ggg
+! css_selector
+
 
 ! path
 ||animegojo.com/banner
