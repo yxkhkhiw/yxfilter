@@ -1,1 +1,2 @@
-||adsok.co^
+||cdn.adsok.co
+||image.cdend.com
