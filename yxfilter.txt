@@ -6,7 +6,7 @@
 
 
 ! css_selector
-
+###sticky-ads-bottom
 
 ! path
 ||animegojo.com/banner^
@@ -14,6 +14,7 @@
 ||clip2thai.com/wp-content/uploads^
 ||hentaithai.com/banner^
 ||hxani.com/i^
+||thai-hentai.com/banner^
 ||thai-hentai.com/i^
 
 ! script
