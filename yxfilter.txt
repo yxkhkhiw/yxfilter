@@ -1,5 +1,6 @@
 ! adservers
-||adsok.co^
+||cdn.adsok.co
+||image.cdend.com
 
 ! css_selector
 
@@ -8,5 +9,6 @@
 ||animegojo.com/banner
 ||animeyuzu.com/up
 ||clip2thai.com/wp-content/uploads
+||cloud.hxani.com/i
 ||hentaithai.com/banner
 
