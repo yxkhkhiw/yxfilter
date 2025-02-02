@@ -28,6 +28,3 @@ done
 # บันทึกเนื้อหาทั้งหมดลง yxfilter.txt ทีเดียว
 echo -n "$all_content" >> "$output_file"
 echo "Saved all sorted content to $output_file"
-
-echo ""
-read -p "Enter to close..."
