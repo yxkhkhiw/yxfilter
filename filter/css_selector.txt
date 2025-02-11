@@ -1,1 +1,2 @@
 ###sticky-ads-bottom
+##.adsok
