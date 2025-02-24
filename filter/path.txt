@@ -1,4 +1,3 @@
-*.gif$image,domain=pannunghd.com
 ||animegojo.com/banner^
 ||animeyuzu.com/up^
 ||c.hd-master.com/v/$redirect=noopmp4-1s

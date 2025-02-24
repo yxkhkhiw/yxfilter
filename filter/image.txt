@@ -1,0 +1,2 @@
+*.gif$image,domain=ok-doujinx.com
+*.gif$image,domain=pannunghd.com

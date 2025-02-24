@@ -1,2 +1,2 @@
-###sticky-ads-bottom
 ##.adsok
+##[id^="sticky-ads"]
