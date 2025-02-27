@@ -1,10 +1,8 @@
 ||animegojo.com/banner^
 ||animeyuzu.com/up^
-||c.hd-master.com/v/$redirect=noopmp4-1s
 ||clip2thai.com/wp-content/uploads^
 ||hentaithai.com/banner^
 ||hxani.com/i^
 ||pannunghd.com/wp-content/img^
-||players2u.com/v/$redirect=noopmp4-1s
 ||thai-hentai.com/banner^
 ||thai-hentai.com/i^
