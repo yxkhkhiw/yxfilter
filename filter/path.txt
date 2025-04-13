@@ -1,5 +1,5 @@
 ||animegojo.com/banner^
-||anime-sugoi.com/pic/webp/^
+||anime-sugoi.com/pic/webp^
 ||animeyuzu.com/up^
 ||clip2thai.com/wp-content/uploads^
 ||hentaithai.com/banner^
