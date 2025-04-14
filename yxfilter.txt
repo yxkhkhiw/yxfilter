@@ -8,6 +8,19 @@
 ! css_selector
 ##.adsok
 ##[id^="sticky-ads"]
+##a[href*="1688sagame"]
+##a[href*="boston7777"]
+##a[href*="kingdom66"]
+##a[href*="lalikabet66"]
+##a[href*="lalikabet88"]
+##a[href*="lockdown1688"]
+##a[href*="lotto7777"]
+##a[href*="sexy1688"]
+##a[href*="ss6666"]
+##a[href*="ufa1919"]
+##a[href*="ufac4"]
+##a[href*="ufafat"]
+##a[href*="ufazeed"]
 
 ! image
 *.gif$image,domain=ok-doujinx.com
