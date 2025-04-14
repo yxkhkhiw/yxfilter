@@ -16,7 +16,7 @@
 ! path
 ||animegojo.com/banner^
 ||anime-sugoi.com/pic/webp^
-||animeyuzu.com/up^
+||anime-yuzu.com/up^
 ||clip2thai.com/wp-content/uploads^
 ||hentaithai.com/banner^
 ||hxani.com/i^
