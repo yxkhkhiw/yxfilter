@@ -1,6 +1,6 @@
 ||animegojo.com/banner^
 ||anime-sugoi.com/pic/webp^
-||anime-yuzu.com/up^
+||anime-yuzu.com/up/img/webp^
 ||clip2thai.com/wp-content/uploads^
 ||hentaithai.com/banner^
 ||hxani.com/i^
